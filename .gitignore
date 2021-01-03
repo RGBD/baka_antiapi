@@ -1,0 +1,11 @@
+*.curl
+*_response.txt
+*.html
+*.json
+*.csv
+*.jsonl
+/data
+/data_renamed
+*.mp3
+*.ts
+/unmask.js
